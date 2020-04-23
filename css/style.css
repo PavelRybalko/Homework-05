@@ -154,7 +154,7 @@ nav {
 }
 
 .button-left {
-  background-image: url(/img/icons/left.png);
+  background-image: url(/img/left.png);
   background-position: center;
   background-repeat: no-repeat;
   position: absolute;
@@ -164,7 +164,7 @@ nav {
 }
 
 .button-right {
-  background-image: url(/img/icons/right.png);
+  background-image: url(/img/right.png);
   background-position: center;
   background-repeat: no-repeat;
   position: absolute;
@@ -290,19 +290,19 @@ main {
 }
 
 .wish {
-  background-image: url(/img/icons/wish.png);
+  background-image: url(/img/wish.png);
 }
 
 .compare {
-  background-image: url(/img/icons/compare.png);
+  background-image: url(/img/compare.png);
 }
 
 .clock {
-  background-image: url(/img/icons/clock.png);
+  background-image: url(/img/clock.png);
 }
 
 .bucket {
-  background-image: url(/img/icons/bucket.png);
+  background-image: url(/img/bucket.png);
   background-position: left 12px center;
   background-color: #323232;
   text-transform: uppercase;
