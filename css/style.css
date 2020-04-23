@@ -115,9 +115,9 @@ nav {
   position: absolute;
   text-transform: uppercase;
   color: #ffffff;
-  top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  top: 43%;
+  transform: translate(-50%, -43%);
 }
 
 .slider-text-header {
@@ -136,9 +136,9 @@ nav {
 
 .slider-buttons {
   position: absolute;
-  top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  top: 46%;
+  transform: translate(-50%, -46%);
 }
 
 .slider-button {
